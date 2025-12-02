@@ -139,7 +139,7 @@ If you have questions or need guidance:
 
 - Open a **Discussion**  
 - Submit an **Issue**  
-- Email us at **hi@devpayr.com**
+- Email us at **support@devpayr.com**
 
 ---
 
