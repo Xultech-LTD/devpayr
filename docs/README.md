@@ -53,7 +53,7 @@ These folders are optional — you may add them as needed.
 
 Official documentation is hosted on:
 
-👉 [https://docs.devpayr.com](https://devpayr.gitbook.io/devpayr-docs/) 
+👉 https://devpayr.gitbook.io/devpayr-docs/
 
 ---
 
