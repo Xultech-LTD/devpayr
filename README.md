@@ -41,11 +41,12 @@ Browse the `/examples` directory for PHP, JS, and other integration samples.
 
 devpayr/
 │
-├── docs/ # Community-contributed guides, expanded notes, FAQ, clarifications
-├── examples/ # Sample integrations for PHP, JS, inline script, etc.
-├── sdk/ # Language-specific helpers or community SDK improvements
-├── .github/ # PR templates, issue templates, workflows
-└── README.md # (This file)
+├── docs/            # Community-contributed guides, FAQs, expansions, clarifications
+├── examples/        # Sample integrations for PHP, JavaScript, inline script, etc.
+├── sdk/             # Language-specific helpers or community SDK improvements
+├── .github/         # PR templates, issue templates, workflows
+└── README.md        # Main landing file for the repository
+
 
 
 ---
@@ -54,7 +55,7 @@ devpayr/
 
 Full official documentation is hosted on GitBook:
 
-👉 https://docs.devpayr.com *(replace this when your docs domain is live)*
+👉 [https://docs.devpayr.com](https://devpayr.gitbook.io/devpayr-docs)
 
 This repository mirrors selected docs to accept community contributions.
 
@@ -64,7 +65,7 @@ This repository mirrors selected docs to accept community contributions.
 
 - **Discussions:** Use the GitHub Discussions tab  
 - **Issues:** For bug reports or feature requests  
-- **Email:** hi@devpayr.com  
+- **Email:** support@devpayr.com  
 
 ---
 
@@ -73,7 +74,7 @@ This repository mirrors selected docs to accept community contributions.
 We welcome contributions from developers, designers, and agencies who use DevPayr.  
 Before contributing, please read:
 
-👉 `CONTRIBUTING.md` *(to be added in the next step)*
+👉 `CONTRIBUTING.md` 
 
 Then open a Pull Request.
 
