@@ -67,7 +67,7 @@ If you're unsure where your contribution fits:
 
 - Open a **Discussion**  
 - Ask via an **Issue**  
-- Contact **hi@devpayr.com**
+- Contact **support@devpayr.com**
 
 ---
 
