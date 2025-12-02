@@ -58,7 +58,7 @@ devpayr/
 
 Full official documentation is hosted on GitBook:
 
-👉 [https://docs.devpayr.com](https://devpayr.gitbook.io/devpayr-docs)
+👉 https://devpayr.gitbook.io/devpayr-docs/
 
 This repository mirrors selected docs to accept community contributions.
 
