@@ -78,7 +78,7 @@ If you're unsure how to structure an example, feel free to:
 
 - Open a **Discussion**  
 - Ask via an **Issue**  
-- Email: **hi@devpayr.com**
+- Email: **support@devpayr.com**
 
 ---
 
