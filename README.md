@@ -39,6 +39,7 @@ Browse the `/examples` directory for PHP, JS, and other integration samples.
 
 ## 🧩 Repository Structure
 
+```
 devpayr/
 │
 ├── docs/            # Community-contributed guides, FAQs, expansions, clarifications
@@ -46,6 +47,8 @@ devpayr/
 ├── sdk/             # Language-specific helpers or community SDK improvements
 ├── .github/         # PR templates, issue templates, workflows
 └── README.md        # Main landing file for the repository
+```
+
 
 
 
