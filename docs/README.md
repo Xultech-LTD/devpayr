@@ -13,7 +13,7 @@ The goal of this directory is to expand understanding, provide examples, and hel
 You can contribute:
 
 - Additional explanations or clarifications  
-- How-to guides (e.g., “How to validate a license in PHP”)  
+- How-to guides (e.g., “How to validate a license in Go”)  
 - Extended tutorials and integration walkthroughs  
 - Improvement suggestions for the GitBook documentation  
 - Notes that help others avoid common mistakes  
